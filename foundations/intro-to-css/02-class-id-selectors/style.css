@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.para {
+    background-color: rgb(241, 52, 143);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.para.special {
+    font-size: 24px;
+}
+
+#num_2 {
+    color: rgb(15, 15, 200);
+    font-size: 36px;
+}
+
+#num_4 {
+    background-color: rgb(111, 224, 111);
+    font-size: 24px;
+    font-weight: bold;
+}
