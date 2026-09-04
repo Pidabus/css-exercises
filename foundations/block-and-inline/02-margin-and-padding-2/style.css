@@ -3,18 +3,35 @@ body {
   font-family: sans-serif;
 }
 
+.title {
+  padding: 10px;
+}
+
 .card {
   width: 400px;
   background: white;
   margin: 16px auto;
+  padding: 10px;
 }
 
 .title,
 .content,
 .button-container {
   background: dodgerblue;
+  padding: 10px;
+  margin: 10px;
+}
+
+.button-container {
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+  padding: 10px;
 }
 
 button {
+  display:block;
+  margin: 0 auto;
   background: white;
+  padding: 10px;
 }
